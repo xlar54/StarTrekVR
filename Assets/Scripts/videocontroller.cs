@@ -22,6 +22,7 @@ public class videocontroller : MonoBehaviour {
             screen.GetComponent<VideoPlayer>().isLooping = false;
             screen.GetComponent<VideoPlayer>().Play();
             
+
         }
 		
 	}
