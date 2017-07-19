@@ -97,6 +97,7 @@ ModelImporter:
     100178: RR_Padding_002
     100180: RR_Padding_003
     100182: RR_Padding_004
+    100184: Cube_000
     400000: Banister
     400002: Banister_Stand
     400004: //RootNode
@@ -189,6 +190,7 @@ ModelImporter:
     400178: RR_Padding_002
     400180: RR_Padding_003
     400182: RR_Padding_004
+    400184: Cube_000
     2300000: Banister
     2300002: Banister_Stand
     2300004: Captains_Chair
@@ -280,6 +282,7 @@ ModelImporter:
     2300176: RR_Padding_002
     2300178: RR_Padding_003
     2300180: RR_Padding_004
+    2300182: Cube_000
     3300000: Banister
     3300002: Banister_Stand
     3300004: Captains_Chair
@@ -371,6 +374,7 @@ ModelImporter:
     3300176: RR_Padding_002
     3300178: RR_Padding_003
     3300180: RR_Padding_004
+    3300182: Cube_000
     4300000: Red_Carpet
     4300002: Banister
     4300004: Walls_006
@@ -462,6 +466,54 @@ ModelImporter:
     4300176: RL_Door_001
     4300178: Floor_Raised
     4300180: Ceiling
+    4300182: Cube_000
+    6400000: Banister
+    6400002: Banister_Stand
+    6400004: Captains_Chair
+    6400006: Ceiling
+    6400008: Ceiling_Scaffold
+    6400010: Chair_001
+    6400012: Chair_002
+    6400014: Computer
+    6400016: Cube
+    6400018: Cube_001
+    6400020: Cube_019
+    6400022: Desktop
+    6400024: FL_Door_001
+    6400026: FL_Door_002
+    6400028: FL_Padding_001
+    6400030: FL_Padding_002
+    6400032: FL_Padding_003
+    6400034: FL_Padding_004
+    6400036: Floor
+    6400038: Helm_Chair_001
+    6400040: Helm_Chair_002
+    6400042: Helm_Terminal_001
+    6400044: Helm_Terminal_002
+    6400046: L_Storage
+    6400048: Long_Screen_000
+    6400050: Long_Screen_001
+    6400052: Long_Screen_002
+    6400054: Long_Screen_003
+    6400056: Long_Screen_004
+    6400058: R_Storage
+    6400060: RF_Door_001
+    6400062: RF_Padding_001
+    6400064: RF_Padding_002
+    6400066: RF_Padding_003
+    6400068: RL_Door_001
+    6400070: RL_Padding_001
+    6400072: RL_Padding_002
+    6400074: RL_Padding_003
+    6400076: RL_Padding_004
+    6400078: RR_Door_001
+    6400080: RR_Door_002
+    6400082: RR_Padding_001
+    6400084: RR_Padding_002
+    6400086: RR_Padding_003
+    6400088: RR_Padding_004
+    6400090: Rug_000
+    6400092: Walls
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -507,7 +559,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
   importAnimation: 1
   copyAvatar: 0
